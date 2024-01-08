@@ -1,11 +1,39 @@
-- Strong and weak sides of node.js: 🎓known
-- Stateful and stateless servers: 🎓 known
-- Garbage collection: 👂 heard
-- CommonJS modules: 👂 heard
-- Dependencies: npm, node_modules: 🎓 known
-- Internal API:🎓 known
-- Streams API: 🎓 known
-- Leaking abstractions: 👂 heard
-- HTTP(S): 🖐 used
-- TCP/SSL: 🖐 used
-- Repository: 🖐 used
+- Node.js CLI: 👂 heard
+- Multilayer approach: 👂 heard
+- Event sourcing: 🖐 used
+- TLS: 👂 heard
+- Path traversal: 👂 heard
+- Testing: 🔬 researched
+- Reliability: 👂 heard
+- Quality: 🔬 researched
+- Data access: 👂 heard
+- error.code: 👂 heard
+- Integrations and bindings: 👂 heard
+- Webassembly Rust: 👂 heard
+- Zig addons: 👂 heard
+- Object-Relational Mapping: 🎓 known
+- Data access layer: 🙋 used
+- Callback: 🎓 known
+- Structured programming: 👂 heard
+- Singleton: 🙋 used
+- Abstract Factory: 🙋 used
+- Strategy: 🙋 used
+- Proxy: 🙋 used
+- Chain of Responsibility: 🙋 used
+- Iterator: 🙋 used
+- Memento: 🙋 used
+- Template Method: 🙋 used
+- exception: 🙋 used
+- git: 🙋 used
+- github: 🙋 used
+- refactoring: 🎓 known
+- algorithm: 🎓 known
+- garbage collection: 🎓 known
+- stack: 🎓 known
+- tree: 🙋 used
+- mutable state: 🎓 known
+- immutable state: 🎓 known 
+- Interface: 🙋 used
+- heap: 🎓 known
+- lambda expression: 🎓 known
+- spaghetti: 🙋 used
